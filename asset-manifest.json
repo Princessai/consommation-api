@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/consommation-api/static/css/main.4631d3fe.css",
+    "main.js": "/consommation-api/static/js/main.6cd6ac21.js",
+    "index.html": "/consommation-api/index.html",
+    "main.4631d3fe.css.map": "/consommation-api/static/css/main.4631d3fe.css.map",
+    "main.6cd6ac21.js.map": "/consommation-api/static/js/main.6cd6ac21.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4631d3fe.css",
+    "static/js/main.6cd6ac21.js"
+  ]
+}
